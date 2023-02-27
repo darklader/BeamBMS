@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\UAS_systems\Powertrain_Supply\Beam_system\PCB_Beam_BMS_light\Beam_BMS_light.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=beam_bms_light-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=beam_bms_light-nonplated.txt|DrillLayers=gtl,gbl

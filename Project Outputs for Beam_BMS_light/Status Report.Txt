@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Beam_BMS_light.PrjPcb]
+   Generated File[Beam_BMS_light.GTO]
+   Generated File[Beam_BMS_light.GTS]
+   Generated File[Beam_BMS_light.GTL]
+   Generated File[Beam_BMS_light.GBL]
+   Generated File[Beam_BMS_light.GBS]
+   Generated File[Beam_BMS_light.GBO]
+   Generated File[Beam_BMS_light.GM19]
+   Generated File[Beam_BMS_light.RUL]
+   Generated File[Beam_BMS_light.EXTREP]
+   Generated File[Beam_BMS_light.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 15:28:35 On 09.11.2022
