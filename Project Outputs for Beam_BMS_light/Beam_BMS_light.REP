@@ -2,121 +2,6 @@
 FileName = Beam_BMS_light.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board
-      File : Beam_BMS_light.GM19
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D121
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Beam_BMS_light.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Beam_BMS_light.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D120
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Beam_BMS_light.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Beam_BMS_light.GTL
 
@@ -130,9 +15,8 @@ Used DCodes :
     D14
     D17
     D18
-    D53
-    D58
-    D70
+    D54
+    D59
     D71
     D72
     D73
@@ -181,44 +65,6 @@ Used DCodes :
     D116
     D117
     D118
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Beam_BMS_light.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D16
-    D17
-    D18
-    D53
-    D58
-    D87
-    D99
-    D101
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
     D119
 *************************************************************
 
@@ -245,5 +91,162 @@ Used DCodes :
     D22
     D23
     D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Beam_BMS_light.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Beam_BMS_light.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Beam_BMS_light.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D16
+    D17
+    D18
+    D54
+    D59
+    D88
+    D100
+    D101
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Beam_BMS_light.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : Beam_BMS_light.GM19
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D123
+    D124
 *************************************************************
 

@@ -1,19 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Beam_BMS_light.PrjPcb]
-   Generated File[Beam_BMS_light.GTO]
-   Generated File[Beam_BMS_light.GTS]
-   Generated File[Beam_BMS_light.GTL]
-   Generated File[Beam_BMS_light.GBL]
-   Generated File[Beam_BMS_light.GBS]
-   Generated File[Beam_BMS_light.GBO]
-   Generated File[Beam_BMS_light.GM19]
-   Generated File[Beam_BMS_light.RUL]
-   Generated File[Beam_BMS_light.EXTREP]
-   Generated File[Beam_BMS_light.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Beam_BMS_light.PrjPcb]
+   Generated File[Beam_BMS_light-Plated.TXT]
+   Generated File[Beam_BMS_light-NonPlated.TXT]
+   Generated File[Beam_BMS_light.LDP]
+   Generated File[Beam_BMS_light.DRR]
 
 
-Files Generated   : 10
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 15:28:35 On 09.11.2022
+Finished Output Generation At 11:19:36 On 02.03.2023
